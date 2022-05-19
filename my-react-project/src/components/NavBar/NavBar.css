@@ -1,0 +1,12 @@
+.container-fluid {
+  background: linear-gradient(
+    to bottom,
+    #74ebd5 0%,
+    #ACB6E5 100%
+  );
+  align-content: flex-start;
+  text-align:left;
+  float: left;
+}
+
+

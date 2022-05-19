@@ -1,0 +1,11 @@
+#listContainer{
+align-items: initial;
+}
+
+.txt1{
+    margin:0.4rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#660066;
+    font-size:1.5rem !important;
+   
+}
